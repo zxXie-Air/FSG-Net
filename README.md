@@ -108,6 +108,9 @@ Color meaning:
 ## Citation
 
 If this code is useful for your research, please cite the corresponding paper.
+
+
+
 @article{xie2026fsg,
   title={FSG-Net: Frequency-spatial synergistic gated network for high-resolution remote sensing change detection},
   author={Xie, Zhongxiang and Miao, Shuangxi and Jiang, Yuhan and Zhang, Zhewei and Yao, Jing and Li, Xuecao and Huang, Jianxi and Ghamisi, Pedram},
@@ -115,4 +118,7 @@ If this code is useful for your research, please cite the corresponding paper.
   year={2026},
   publisher={IEEE}
 }
+
+
+
 Thank you!
