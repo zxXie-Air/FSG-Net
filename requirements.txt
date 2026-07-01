@@ -1,0 +1,32 @@
+# Core deep learning stack
+torch==2.2.2
+torchvision==0.17.2
+timm==0.6.13
+
+# Numerical computing
+numpy==1.24.3
+scipy==1.10.1
+
+# Image processing
+opencv-python==4.9.0.80
+Pillow==10.2.0
+PyWavelets==1.4.1
+
+# Training utilities
+tqdm==4.66.2
+dropblock==0.3.0
+
+# Timm / model-zoo ecosystem dependencies
+huggingface-hub==0.22.2
+safetensors==0.4.2
+filelock==3.9.0
+fsspec==2024.3.1
+PyYAML==6.0.1
+requests==2.31.0
+packaging==23.2
+
+# Common experiment utilities
+matplotlib==3.7.5
+pandas==2.0.3
+scikit-learn==1.3.2
+scikit-image==0.21.0
